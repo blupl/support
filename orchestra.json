@@ -1,0 +1,13 @@
+{
+    "name": "Support",
+    "description": "BCB Support Staff Extension",
+    "author": "Ahsanul Kabir",
+    "url": "https://github.com/",
+    "version": "1.0.0",
+    "config": {
+        "handles": "Support"
+    },
+    "provides": [
+        "Blupl\\Support\\SupportServiceProvider"
+    ]
+}
